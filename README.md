@@ -25,4 +25,4 @@ Open the index.html file in any web browser.
 
 Click the button to turn the light bulb ON or OFF.
 
-link : http://127.0.0.1:5500/light%20bulb/
+
